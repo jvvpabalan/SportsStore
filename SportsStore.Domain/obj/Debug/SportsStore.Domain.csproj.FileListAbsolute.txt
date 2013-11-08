@@ -1,0 +1,8 @@
+c:\users\jayvee\documents\visual studio 2012\Projects\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll
+c:\users\jayvee\documents\visual studio 2012\Projects\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.pdb
+c:\users\jayvee\documents\visual studio 2012\Projects\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.csprojResolveAssemblyReference.cache
+c:\users\jayvee\documents\visual studio 2012\Projects\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.dll
+c:\users\jayvee\documents\visual studio 2012\Projects\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.pdb
+c:\users\jayvee\documents\visual studio 2012\Projects\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll.config
+c:\users\jayvee\documents\visual studio 2012\Projects\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.dll
+c:\users\jayvee\documents\visual studio 2012\Projects\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.xml
